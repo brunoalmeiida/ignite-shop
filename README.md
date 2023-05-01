@@ -1,7 +1,3 @@
-O Ignite Shop é um aplicação web de vendas de camisetas com temas do mundo dev
-
-
-
 <h1 align="center"> Ignite Shop </h1>
 
 <p align="center">
